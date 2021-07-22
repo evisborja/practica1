@@ -3,3 +3,6 @@
 //pagar por casillero en dolares, costo dependiendo cant. productos
 //pagar envio, depende del peso
 // impuesto de entrada al pais, lo digita aduanas
+
+let boton=document.getElementById("boton");
+console.log(boton);
